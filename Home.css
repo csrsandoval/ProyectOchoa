@@ -1,0 +1,42 @@
+.Login {
+	background-color: #343A40;
+	padding: 1px;
+	text-align: right;
+	
+}
+
+.Title {
+	background-color: #286090;
+	border-color: #bce8f1;
+	border:1px solid transparent;
+	padding: 15px 15px 0 15px;
+	color:#fff;
+	text-align: left;
+}
+
+
+#email{/*Manejar estilo por id*/
+	border-radius: 25px;
+	border: none;
+	width: 200px;*/
+}
+
+#password{/*Manejar estilo por id*/
+	border-radius: 25px;
+	border: none;
+	width: 200px;
+}
+
+#login{/*Manejar estilo por id*/
+	border-radius: 25px;
+	border: none;
+	width: 60px;
+}
+
+
+
+.menu {/*Cabecera*/
+	background-color: #343A40 !important;
+	border-color: #343A40;
+	color: #fff 
+}
